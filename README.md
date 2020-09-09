@@ -7,7 +7,7 @@
 2. Understanding of software testing frameworks - JMeter and JUnit
 3. Understanding of deployment strategies 
 
-### Architecture: 
+### Architecture of CICD 
 ![GitHub Logo](/images/CICD.png)
 Format: ![Alt Text](url)
 
