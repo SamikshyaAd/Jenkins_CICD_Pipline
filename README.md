@@ -8,7 +8,7 @@
 3. Understanding of deployment strategies 
 
 ### Architecture of CICD 
-![GitHub Logo](/images/CICD.png)
+![GitHub Logo](/images/cicd.png)
 Format: ![Alt Text](url)
 
 
