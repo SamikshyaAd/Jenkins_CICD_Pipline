@@ -7,6 +7,10 @@
 2. Understanding of software testing frameworks - JMeter and JUnit
 3. Understanding of deployment strategies 
 
+### Architecture: 
+![GitHub Logo](/images/CICD.png)
+Format: ![Alt Text](url)
+
 
 ### Dependencies
 ##### 1. AWS account
@@ -95,7 +99,7 @@ sudo systemctl status jenkins
         d) Click OK, and the credentials should now be available for the rest of the system.
     7)  "Open Blue Ocean" link should show up in the sidebar. Click it, and it will take you to the "Blue Ocean" screen, where we will have to add a project. Click "create pipeline."
 
-##### 2. Files included are
+#####  Files included are
     1) `Jenkinsfile` 
     2) `index.html` HTML file to display as a web page
     3) `ScreenShots` folder- Having different stages of CICD pipeline
